@@ -1,3 +1,4 @@
+print('Bem vindo!')
 avaliacao = input('1 para bolo. Qualquer coisa para nada:')
 
 if avaliacao == '1':
